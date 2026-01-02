@@ -22,7 +22,7 @@ Estudo prático de enumeração, exploração básica e análise de vulnerabilid
 Anotações e práticas sobre redes, Linux e conceitos de cibersegurança.
 
 ## 📫 Contato
-- LinkedIn: https://linkedin.com/in/seu-link
+- LinkedIn: 
 
 
 
