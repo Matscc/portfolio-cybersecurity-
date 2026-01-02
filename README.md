@@ -5,21 +5,24 @@
 🎓 Estudante de Ciência da Computação  
 🔐 Focado em Segurança da Informação e Pentest  
 
-##  Conhecimentos
-- Redes (TCP/IP, DNS, HTTP...)
-- Linux (linha de comando)
-- OWASP Top 10
-- Noções de Pentest
-- Python
-- java (básico)
+## 🧠 Conhecimentos Técnicos
 
-##  Ferramentas
-- Kali Linux
-- Nmap
-- Burp Suite
-- Git / GitHub
+- Redes: TCP/IP, DNS, HTTP/HTTPS... 
+- Sistemas: Linux (linha de comando, permissões)  
+- Segurança da Informação: OWASP Top 10  
+- Ferramentas: Nmap, Burp Suite, Git...
+- Programação: Python, java (básico)
 
-## 📚 Writeups
+## 📂 Projetos
+
+🔹 ** Labs e CTFs**  
+Estudo prático de enumeração, exploração básica e análise de vulnerabilidades em ambientes controlados.
+
+🔹 **Estudos em Segurança da Informação**  
+Anotações e práticas sobre redes, Linux e conceitos de cibersegurança.
 
 ## 📫 Contato
+- LinkedIn: https://linkedin.com/in/seu-link
+
+
 
