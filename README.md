@@ -5,7 +5,7 @@
 🎓 Estudante de Ciência da Computação  
 🔐 Focado em Segurança da Informação e Pentest  
 
-## 🧠 Conhecimentos
+##  Conhecimentos
 - Redes (TCP/IP, DNS, HTTP...)
 - Linux (linha de comando)
 - OWASP Top 10
@@ -13,7 +13,7 @@
 - Python
 - java (básico)
 
-## 🛠 Ferramentas
+##  Ferramentas
 - Kali Linux
 - Nmap
 - Burp Suite
